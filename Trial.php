@@ -1,0 +1,1 @@
+Triny ko lang ule

@@ -1,1 +1,0 @@
-Ito ipupush ko

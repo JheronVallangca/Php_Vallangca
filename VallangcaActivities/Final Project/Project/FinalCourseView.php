@@ -84,8 +84,9 @@
                         }
             ?>
         </table>
-        <button ><a href="FinalCourseUpdate.html">Update your details</button></a>
+        <button ><a href="FinalCourseUpdate.html">Update your course</button></a>
         <button ><a href="FinalCourseDelete.html">Delete Course</button></a>
-        <button ><a href="FinalMenu.html">Register another course</button></a>
+        <button ><a href="FinalCourse.html">Register another course</button></a>
+        <button><a href="FinalMenu.html">Return to homepage</a></button>
     </body>
 </html>

@@ -98,6 +98,7 @@
         </table>
         <button ><a href="FinalUpdate.html">Update your details</button></a>
         <button ><a href="FinalDelete.html">Delete your account</button></a>
+        <button ><a href="FinalCourse.html">Add a course</button></a>
         <button ><a href="FinalMenu.html">Register another account</button></a>
     </body>
 </html>
